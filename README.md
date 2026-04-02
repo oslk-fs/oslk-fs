@@ -1,10 +1,10 @@
-# 👋 Welcome to My Profile! | Bienvenue sur mon profil!
+# 👋 Welcome to My Profile!
 
 I'm **Fulbert Kaka**, a passionate **3rd-year Cybersecurity Student** 🎓 with a strong foundation in ethical hacking, penetration testing, and full-stack development. I'm dedicated to building secure systems and contributing to the open-source cybersecurity community.
 
 ---
 
-## 🔐 About Me | À Propos de Moi
+## 🔐 About Me
 
 I'm a cybersecurity enthusiast and developer committed to:
 - **Protecting digital assets** through ethical hacking and penetration testing
@@ -32,7 +32,7 @@ I'm a cybersecurity enthusiast and developer committed to:
 
 ---
 
-## 🎯 Current Focus | Concentration Actuelle
+## 🎯 Current Focus
 
 I'm **actively developing my skills** in full-stack web development while maintaining my cybersecurity expertise. My goal is to create **secure-by-design applications** that prioritize both functionality and protection.
 

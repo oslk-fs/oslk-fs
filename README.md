@@ -25,8 +25,8 @@ I'm a cybersecurity enthusiast and developer committed to:
 - **Scripting**: Python, Bash, PowerShell
 
 ### 💻 Full-Stack Development | Développement Full-Stack
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend**: Node.js, SQL
+- **Frontend**: HTML, CSS, JavaScript, React.js, Vue.js, Tailwind CSS
+- **Backend**: Node.js, MYSQL, MongoDB
 - **DevOps**: Docker
 - **Databases**: SQL
 
